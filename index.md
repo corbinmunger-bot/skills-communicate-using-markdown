@@ -7,8 +7,12 @@
 ###### tiniest
 testing all the header formats in markdown
 
+--------------------------------------------------
+
+### Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+### Code Samples
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -21,3 +25,7 @@ var myVar = "Hello, world!";
 ```python
 int num = 0
 ```
+### To Dos:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
